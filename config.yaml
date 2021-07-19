@@ -7,4 +7,4 @@ module:
     - source: debug-bar/js
       target: assets/js
     - source: console
-      target: layouts/partials/console
+      target: layouts/partials
