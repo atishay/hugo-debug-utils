@@ -4,10 +4,14 @@
   z-index: 999999;
   max-height: 100vh;
   overflow: auto;
-  width: 100%;
+  width: 50px;
   box-sizing: border-box;
   bottom: 0;
   min-height: 50px;
+}
+
+.debug.expanded {
+  width: 100%
 }
 
 .debug * {
